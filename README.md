@@ -2,7 +2,7 @@
 
 In this repository you could find the *Shiny app's source code (ui.R and server.R)* for week 4 Assignment of Coursera course ***Developing Data Products*** course (https://www.coursera.org/learn/data-products).
 
-The files of this assignmen is stored at (https://github.com/mliu5408/data-products-week-4-project/)
+The files of this assignmen is stored at https://github.com/mliu5408/data-products-week-4-project/
 
 The web application comprises 3 files: ui.R (UI), server.R (backend) and modelBuilding.R (Random Forest predictor) under the folder source. 
 

@@ -19,13 +19,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Application Development
 
- - The web application is named ***MPGPrediction***. An instance is up & running at [MPG Prediction](https://mliu5408.shinyapps.io/MPGPrediction/).
+ - An instance of the web application is up and running at https://mliu5408.shinyapps.io/MPGPrediction.
  
  - This shows a web application using R and [Shiny](https://shiny.rstudio.com) framework together.
  
  - A prediction model is developed using a car parameters dataset (HP, weight, gears, etc.). A web application user can play with the UI values to simulate the parameters of an hypothetical car to predict its MPG consumption.
  
- - All files of this assignment are stored at https://github.com/mliu5408/data-products-week-4-project/. The web application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor) under the folder ***source***. The R Markdown code of this presentation is named data-products-week-4-project.Rmd and the presentation is published on http://rpubs.com/mliu5408/403473. A README.md file in Markdown format is also stored in the same github location.
+ - All files of this assignment are stored at https://github.com/mliu5408/data-products-week-4-project. To view the files, we need to copy and paste the url to a brower. This is a secuirity repirement.    
+
+   The web application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor) under the folder ***source***. 
+
+   The R Markdown code of this presentation is named data-products-week-4-project.Rmd. 
+
+   The presentation is published on http://rpubs.com/mliu5408/403756. 
+
+   A README.md file in Markdown format is also stored in the same github location.
   
 ## Training Dataset
 

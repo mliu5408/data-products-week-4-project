@@ -5,7 +5,10 @@ library(randomForest)
 # Setting up for Random Forest predictor.
 #
 
-# Initializing data. 'mtcars' dataset is used. 
+# Initializing data. 'mtcars' dataset is used. file:///C:/Users/mingfuliu/Desktop/data-products-week-4-project/data-products-week-4-project.Rmd
+file:///C:/Users/mingfuliu/Desktop/data-products-week-4-project/source
+file:///C:/Users/mingfuliu/Desktop/data-products-week-4-project/README.md
+
 data("mtcars")
 
 # To show structure in UI
