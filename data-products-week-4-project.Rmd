@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
  - A prediction model is developed using a car parameters dataset (HP, weight, gears, etc.). A web application user can play with the UI values to simulate the parameters of an hypothetical car to predict its MPG consumption.
  
- - The web application and the current presentation source codes can be found at <https://github.com/mliu5408/data-products-week-4-project>. The web application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor) under the folder ***source***. The R Markdown code of this presentation is named data-products-week-4-project.Rmd and the presentation is published on http://rpubs.com/mliu5408/403473. A README.md file in Markdown format is also stored in the same github location.
+ - All files of this assignment are stored at <https://github.com/mliu5408/data-products-week-4-project.git>. The web application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor) under the folder ***source***. The R Markdown code of this presentation is named data-products-week-4-project.Rmd and the presentation is published on http://rpubs.com/mliu5408/403473. A README.md file in Markdown format is also stored in the same github location.
   
 ## Training Dataset
 
